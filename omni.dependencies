@@ -1,8 +1,8 @@
 [
 	{
 		"remote":"github",
-		"repository":"gta4xl/android_kernel_samsung_gta4xl",
-		"target_path":"kernel/samsung/gta4xl",
+		"repository":"hendramanu/android_kernel_samsung_m21",
+		"target_path":"kernel/samsung/m21",
 		"revision":"android-10.0"
 	}
 ]

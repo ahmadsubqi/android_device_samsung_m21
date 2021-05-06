@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_gta4xl.mk
+    $(LOCAL_DIR)/omni_m21.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_gta4xl-eng
+    omni_m21-eng

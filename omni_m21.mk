@@ -17,13 +17,13 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
-TARGET_SCREEN_WIDTH := 1200
-TARGET_SCREEN_HEIGHT := 2000
+TARGET_SCREEN_WIDTH := 1080
+TARGET_SCREEN_HEIGHT := 2340
 
-PRODUCT_NAME := omni_gta4xl
-PRODUCT_DEVICE := gta4xl
+PRODUCT_NAME := omni_m21
+PRODUCT_DEVICE := m21
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-P615
+PRODUCT_MODEL := SM-M215
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_SHIPPING_API_LEVEL := 29
 
